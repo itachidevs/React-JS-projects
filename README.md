@@ -22,4 +22,4 @@ Created a repository to practice React JS concept wise.
 - [Speedometer](https://github.com/babybhavani/Speedometer-React.git)
 - [Fruits Counter](https://github.com/babybhavani/Fruits-Counter.git)
 
-## :) More Coming soon.. Happy Coding💻✨
+## Happy Coding💻✨
