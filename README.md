@@ -22,4 +22,11 @@ Created a repository to practice React JS concept wise.
 - [Speedometer](https://github.com/babybhavani/Speedometer-React.git)
 - [Fruits Counter](https://github.com/babybhavani/Fruits-Counter.git)
 
+## Practice #5 -Conditional Rendering
+- [Welcome App](https://github.com/babybhavani/Welcome-App.git)
+- [Light Dark Mode](https://github.com/babybhavani/Light-Dark-Mode.git)
+- [Show/Hide App](https://github.com/babybhavani/Show-Hide-App.git)
+- [Even Odd App](https://github.com/babybhavani/Even-Odd-App.git)
+
+
 ## Happy Coding💻✨
