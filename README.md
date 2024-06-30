@@ -1,6 +1,8 @@
 # React-JS-projects
-The repository to practice React JS
-Created a repository to practice React JS concept wise.
+- The repository to practice React JS
+- Created a repository to practice React JS concept wise.
+- Practice Topic wise challenges
+- Learn and Build
 
 ## Practice #1 - Introduction
 
