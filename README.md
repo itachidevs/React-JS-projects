@@ -31,4 +31,8 @@
 - [Even Odd App](https://github.com/babybhavani/Even-Odd-App.git)
 - [Login App](https://github.com/babybhavani/Login-App.git)
 
+## Practice #6 - SearchInputs
+- [Randum Number Generator](https://github.com/babybhavani/Random-Number-Generator-.git)
+- [Destination Search](https://github.com/babybhavani/Destination-Search.git)
+- []()
 ## Happy Coding💻✨
