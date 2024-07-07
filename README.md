@@ -35,5 +35,14 @@
 - [Randum Number Generator](https://github.com/babybhavani/Random-Number-Generator-.git)
 - [Destination Search](https://github.com/babybhavani/Destination-Search.git)
 - [Simple Todos](https://github.com/babybhavani/Simple-Todos.git)
+
+## Practice #7 - More On State object
 - [Cash Withdrawal](https://github.com/babybhavani/Cash-Withdrawal.git)
+- [Google Search Suggestions](https://github.com/babybhavani/Google-Search-Suggestions.git)
+
+## Practice #8 - More On State Object
+- [Letters Calculator](https://github.com/babybhavani/Letters-Calculator.git)
+
+### AssignMent 🎓 
+- [Browser History](https://github.com/babybhavani/Browser-History.git)
 ## Happy Coding💻✨
