@@ -47,4 +47,6 @@
 - [Browser History](https://github.com/babybhavani/Browser-History.git)
 ## Practice #9 - More on Condition + State Object
 - [Feedback App](https://github.com/babybhavani/Feedback-App.git)
+## Practice #10 - Updating State Objects and Tabs
+- [Gallery App](https://github.com/babybhavani/Gallery-App.git)
 ## Happy Coding💻✨
