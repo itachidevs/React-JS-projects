@@ -49,4 +49,6 @@
 - [Feedback App](https://github.com/babybhavani/Feedback-App.git)
 ## Practice #10 - Updating State Objects and Tabs
 - [Gallery App](https://github.com/babybhavani/Gallery-App.git)
+## Practice #11 - Working with Select tag
+- [Capitals App](https://github.com/babybhavani/Capitals-App.git)
 ## Happy Coding💻✨
