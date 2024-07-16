@@ -52,4 +52,7 @@
 ## Practice #11 - Working with Select tag
 - [Capitals App](https://github.com/babybhavani/Capitals-App.git)
 - [App Store](https://github.com/babybhavani/App-Store.git)
+## Practice #12 - Working with carausels
+- [Coin Toss Game](https://github.com/babybhavani/Coin-Toss-Game.git)
+- [Reviews App](https://github.com/babybhavani/Reviews-App.git)
 ## Happy Coding💻✨
