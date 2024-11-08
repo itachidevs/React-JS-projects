@@ -61,4 +61,25 @@
 
 ## Practice #14 - Money Manager
 - [Money Manager](https://github.com/babybhavani/Money-Manager.git)
+
+## Practice #15 - Reviews App
+- [Reviews App](https://github.com/itachidevs/Reviews-App.git)
+
+## Practice #16 
+Comments App - [Comments App](https://github.com/itachidevs/Comments-App.git)
+Appointments App - [Appointments App](https://github.com/itachidevs/Appointments-App.git)
+
+## Practice #17-Money Manager
+[Money Manager](https://github.com/itachidevs/Money-Manager.git)
+
+## Practice #18 -Emoji Game
+[Emoji Game](https://github.com/itachidevs/Emoji-Game.git)
+
+## Practice #19 - dIGITAL tIMER aPP
+[dIGITAL tIMER aPP](https://github.com/itachidevs/Digital-Timer-App.git)
+
+## Practice #20 - Stop Watch
+[Stop Watch](https://github.com/itachidevs/stopwatch.git)
+
+
 ## Happy Coding💻✨
